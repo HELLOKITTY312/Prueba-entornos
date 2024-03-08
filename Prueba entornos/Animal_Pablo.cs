@@ -11,7 +11,9 @@ namespace Prueba_entornos
         //Constantes
 
         //Miembros privados
-
+        private string _nombre;
+        private string _tipo;
+        private int Edad;
         //Constructores
 
         //Metodos publicos
