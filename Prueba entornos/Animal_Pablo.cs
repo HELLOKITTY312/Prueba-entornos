@@ -8,5 +8,14 @@ namespace Prueba_entornos
 {
     internal class Animal_Pablo
     {
+        //Constantes
+
+        //Miembros privados
+
+        //Constructores
+
+        //Metodos publicos
+
+        //Metodos privados
     }
 }
